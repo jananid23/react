@@ -15,4 +15,5 @@ const carInfo = {brand:"Ford",colour:"black "}
     
   )
 }
+
 export default Garage;
